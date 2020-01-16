@@ -1,31 +1,21 @@
-﻿### YamlMime:ManagedReference
-items:
-- uid: Microsoft.SqlServer.Server
-  commentId: N:Microsoft.SqlServer.Server
-  id: Microsoft.SqlServer.Server
-  children:
-  - Microsoft.SqlServer.Server.SqlMetaData
-  langs:
-  - csharp
-  - vb
-  name: Microsoft.SqlServer.Server
-  nameWithType: Microsoft.SqlServer.Server
-  fullName: Microsoft.SqlServer.Server
-  type: Namespace
-  summary: "[content](content.md)"
-  assemblies:
-  - System.Data.SqlClient
-references:
-- uid: Microsoft.SqlServer.Server.SqlMetaData
-  commentId: T:Microsoft.SqlServer.Server.SqlMetaData
-  parent: Microsoft.SqlServer.Server
-  isExternal: false
-  name: SqlMetaData
-  nameWithType: SqlMetaData
-  fullName: Microsoft.SqlServer.Server.SqlMetaData
-- uid: Microsoft.SqlServer.Server
-  commentId: N:Microsoft.SqlServer.Server
-  isExternal: false
-  name: Microsoft.SqlServer.Server
-  nameWithType: Microsoft.SqlServer.Server
-  fullName: Microsoft.SqlServer.Server
+77u/IyMjIFlhbWxNaW1lOk1hbmFnZWRSZWZlcmVuY2UKaXRlbXM6Ci0gdWlk
+OiBNaWNyb3NvZnQuU3FsU2VydmVyLlNlcnZlcjMKICBjb21tZW50SWQ6IE46
+TWljcm9zb2Z0LlNxbFNlcnZlci5TZXJ2ZXIKICBpZDogTWljcm9zb2Z0LlNx
+bFNlcnZlci5TZXJ2ZXIzCiAgY2hpbGRyZW46CiAgLSBNaWNyb3NvZnQuU3Fs
+U2VydmVyLlNlcnZlci5TcWxNZXRhRGF0YQogIGxhbmdzOgogIC0gY3NoYXJw
+CiAgLSB2YgogIG5hbWU6IE1pY3Jvc29mdC5TcWxTZXJ2ZXIuU2VydmVyMwog
+IG5hbWVXaXRoVHlwZTogTWljcm9zb2Z0LlNxbFNlcnZlci5TZXJ2ZXIzCiAg
+ZnVsbE5hbWU6IE1pY3Jvc29mdC5TcWxTZXJ2ZXIuU2VydmVyMwogIHR5cGU6
+IE5hbWVzcGFjZQogIHN1bW1hcnk6ICJbY29udGVudF0oY29udGVudC5tZCki
+CiAgYXNzZW1ibGllczoKICAtIFN5c3RlbS5EYXRhLlNxbENsaWVudApyZWZl
+cmVuY2VzOgotIHVpZDogTWljcm9zb2Z0LlNxbFNlcnZlci5TZXJ2ZXIuU3Fs
+TWV0YURhdGEKICBjb21tZW50SWQ6IFQ6TWljcm9zb2Z0LlNxbFNlcnZlci5T
+ZXJ2ZXIuU3FsTWV0YURhdGEKICBwYXJlbnQ6IE1pY3Jvc29mdC5TcWxTZXJ2
+ZXIuU2VydmVyCiAgaXNFeHRlcm5hbDogZmFsc2UKICBuYW1lOiBTcWxNZXRh
+RGF0YQogIG5hbWVXaXRoVHlwZTogU3FsTWV0YURhdGEKICBmdWxsTmFtZTog
+TWljcm9zb2Z0LlNxbFNlcnZlci5TZXJ2ZXIuU3FsTWV0YURhdGEKLSB1aWQ6
+IE1pY3Jvc29mdC5TcWxTZXJ2ZXIuU2VydmVyMwogIGNvbW1lbnRJZDogTjpN
+aWNyb3NvZnQuU3FsU2VydmVyLlNlcnZlcgogIGlzRXh0ZXJuYWw6IGZhbHNl
+CiAgbmFtZTogTWljcm9zb2Z0LlNxbFNlcnZlci5TZXJ2ZXIzCiAgbmFtZVdp
+dGhUeXBlOiBNaWNyb3NvZnQuU3FsU2VydmVyLlNlcnZlcgogIGZ1bGxOYW1l
+OiBNaWNyb3NvZnQuU3FsU2VydmVyLlNlcnZlcjMK
