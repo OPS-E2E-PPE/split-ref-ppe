@@ -1,4 +1,4 @@
-### YamlMime:Sample
+### YamlMime:ManagedReference
 items:
 - uid: Microsoft.SqlServer.Server
   commentId: N:Microsoft.SqlServer.Server
