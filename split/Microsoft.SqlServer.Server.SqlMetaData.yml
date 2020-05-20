@@ -1,4 +1,4 @@
-### YamlMime:ManagedReference
+### YamlMime:NetMember
 items:
 - uid: Microsoft.SqlServer.Server.SqlMetaData
   commentId: T:Microsoft.SqlServer.Server.SqlMetaData
